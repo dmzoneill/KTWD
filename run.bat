@@ -1,0 +1,1 @@
+c:\xampplite\php\php.exe E:\KTWD\createbadges.php
