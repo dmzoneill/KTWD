@@ -1,5 +1,9 @@
 # KTWD
 
+<p align="center">
+  <img src=".github/logo.png" alt="KTWD logo" width="128" />
+</p>
+
 A PHP script that makes picture badges for KTWD.
 
 ## What it does
